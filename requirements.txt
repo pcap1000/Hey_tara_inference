@@ -1,0 +1,11 @@
+torch
+numpy
+pandas
+matplotlib
+scipy
+pyarrow
+soundfile
+sounddevice
+ipython
+ipykernel
+notebook

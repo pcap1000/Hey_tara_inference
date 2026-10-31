@@ -9,3 +9,4 @@ sounddevice
 ipython
 ipykernel
 notebook
+onnxruntime
